@@ -1,6 +1,7 @@
-## Playwright Python Example Poject
+## Playwright Python Page File Example
 - Depends on [pytest-playwright](https://github.com/microsoft/playwright-pytest) 
 - pip install pytest-playwright
+- - install playwright
 
 ## Playwright Documentation
 
