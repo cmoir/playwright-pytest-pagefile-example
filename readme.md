@@ -16,4 +16,4 @@
 This test is uses files to group the pages without the class structure.
 
 ## Page Object example
-Can be found here: https://github.com/cmoir/playwright_pytest_example_project
+Can be found here: https://github.com/cmoir/playwright_pytest_bdd_example
